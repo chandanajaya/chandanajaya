@@ -1,6 +1,6 @@
- -👋 Hi, I’m @chandanajaya
+- 👋 Hi, I’m @chandanajaya
 - 👀 I’m interested in Programing
--🌱 I’m currently learning Msc Data Science
+- 🌱 I’m currently learning Msc Data Science
 
 
 <!---
